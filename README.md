@@ -1,8 +1,15 @@
-# 🚀 Selenium WebDriver E‑commerce Application Used
+# 🚀 Client-Project-Ecommerce-UI-Automation-Framework-Selenium
 
-A **production‑ready, SDET‑style Selenium automation repository** built using **Java + Selenium WebDriver + Maven**, covering **real‑world UI automation scenarios**, **advanced browser handling**, **data‑driven testing**, **exception handling**, and **Chrome DevTools (CDP)** use cases.
 
-This repository is designed to showcase **hands‑on SDET skills**, not just theory.
+A **production‑ready, SDET‑style Selenium automation repository** built using **Java + Selenium WebDriver + Maven**, covering **real‑world UI automation scenarios**, **advanced browser handling**, **data‑driven testing**, **exception handling**, and **Chrome DevTools (CDP)**.
+
+ This project simulates a real-world client requirement where a scalable automation framework was designed for an e-commerce platform to ensure UI and API reliability.
+
+## Key Features
+- Scalable framework design
+- Parallel execution
+- CI/CD integration (Jenkins)
+- Docker-based execution
 
 ---
 
