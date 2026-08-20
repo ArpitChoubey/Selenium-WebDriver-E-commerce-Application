@@ -1,4 +1,4 @@
-# 🚀 Client Project | E-Commerce UI Automation Framework using Selenium WebDriver
+# 🚀 Client Project | E-Commerce UI Automation Framework using Selenium WebDriver | 🔵 Azure DevOps | CI/CD & Pipeline Automation |
 
 <p align="center">
 
@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/Chrome-DevTools-yellow?style=for-the-badge&logo=googlechrome"/>
 <img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/Open-Source-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 
 </p>
 
@@ -68,6 +69,7 @@ This project demonstrates these engineering principles through practical Seleniu
 | 🔄 Jenkins Ready | CI/CD Integration |
 | 📸 Screenshot Utility | Test Evidence |
 | 🗂 Git & GitHub | Version Control |
+| 🔵 Azure DevOps             | CI/CD & Pipeline Automation |
 
 ---
 
